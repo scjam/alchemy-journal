@@ -27,4 +27,5 @@
     - Work with HTML content : innerHTML, textContent, createElement(), appendChild()
     - Access or update attribute values : className / id, getAttribute, setAttribute
 - When you need to work with an element more than once, use a variable to store the result of the query
-- 
+- Select elements by class name, tag name, or css selectors
+- Previous/nextSibling vs first/lastChild
