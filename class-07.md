@@ -2,7 +2,7 @@
 
 ### Domain Modeling Article
 
-- Domain modeling can ensure smoother communicatin between tech and business teams
+- Domain modeling can ensure smoother communication between tech and business teams
 - Build self-contained objects with the same attributes and behaviors
 - Might need to use this constructor function for the last test from today's lab?
 - Math.random() to generate random numbers
@@ -18,11 +18,11 @@
 ### JS Book, Chapter 3 (p. 106-144)
 
 - Create many objects with constructor notation
-- This is a referenes to the object that the function is created inside
+- This is a references to the object that the function is created inside
 - Global scope or context are functions at the top level of scripts
 - A function inside an object is a method
 - Variables have one key and one value, retrieve the value by using the variable's name
-- Use constructors to create obkects when there's lots of them
+- Use constructors to create objects when there's lots of them
 - Arrays are objects, use them to save space
 - Built-in objects: Browser object model, DOM, Global javascript objects
 - p. 124-129 for properties/methods
