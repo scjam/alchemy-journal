@@ -2,7 +2,7 @@
 
 ### Intro to Webpack
 - Necessity is the mother of invention
-- Websites got bulky with javascript files and developers started outcoding what browsers could understand
+- Websites got bulky with javascript files and developers started out coding what browsers could understand
 - "Webpack is a static module bundler."
 - Webpack makes a graph that lets the browser know the LCD of what's needed to execute the code
 - create-react-app
@@ -30,4 +30,4 @@
 - JSX is a syntax extension to JavaScript
 - HTML but fancy like JS
 - Is HTML forever forever? Like is it the latin of internet language? Not the first, but the most permeable to other languages?
-- Instead of seperating technologies, React seperates concerns with components
+- Instead of separating technologies, React separates concerns with components
